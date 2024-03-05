@@ -26,32 +26,32 @@
       "id": 1,
       "linkTo": "posyandu",
       "title": "Posyandu",
-      "desc1": [],
-      "desc2": [],
+      "desc1": ["Description 1"],
+      "desc2": ["Description 2"],
       "type": "Proker Penunjang"
     },
     {
       "id": 2,
       "linkTo": "mengajar",
       "title": "Mengajar",
-      "desc1": [],
-      "desc2": [],
+      "desc1": ["Description 1"],
+      "desc2": ["Description 2"],
       "type": "Proker Gabungan"
     },
     {
       "id": 3,
       "linkTo": "sosialisasi",
       "title": "Sosialisasi Membaca",
-      "desc1": [],
-      "desc2": [],
+      "desc1": ["Description 1"],
+      "desc2": ["Description 2"],
       "type": "Proker Gabungan"
     },
     {
       "id": 4,
       "linkTo": "plang",
       "title": "Plang Rumah",
-      "desc1": [],
-      "desc2": [],
+      "desc1": ["Description 1"],
+      "desc2": ["Description 2"],
       "type": "Proker Gabungan"
     }
   ],
