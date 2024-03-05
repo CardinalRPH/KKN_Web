@@ -2,7 +2,7 @@
 import { useEffect, useRef, useState } from "react"
 import Footer from "../components/Footer"
 import Header from "../components/Header"
-import rootEffect from "../utilities/effect/rootEffect"
+// import rootEffect from "../utilities/effect/rootEffect"
 import Navbar from "../components/Navbar"
 import { Outlet, useLocation } from "react-router-dom"
 import { ScrollTrigger } from "gsap/all"
@@ -26,7 +26,7 @@ const RootLayout = () => {
     useEffect(() => {
         //this is get img from firebase
         loadAllImage(setStorageImg)
-        rootEffect(socialIcoRef.current, logoRef.current, footerRef.current)
+        // rootEffect(socialIcoRef.current, logoRef.current, footerRef.current)
     }, [])
     return (
         <div className=" bg-gray-50">
