@@ -26,32 +26,54 @@
       "id": 1,
       "linkTo": "posyandu",
       "title": "Posyandu",
-      "desc1": ["Description 1"],
-      "desc2": ["Description 2"],
+      "desc1": [
+        "Pos Pelayanan Terpadu (Posyandu) salah satu bentuk Upaya Kesehatan Bersumberdaya Masyarakat (UKBM) yang dikelola dari, oleh, untuk, dan bersama masyarakat, guna memberdayakan masyarakat dan memberikan kemudahan kepada masyarakat dalam memperoleh pelayanan kesehatan dasar untuk mempercepat penurunan Angka Kematian Ibu dan Bayi.",
+        "Sosialisasi yang penulis fokuskan adalah sosialisasi tentang pentingnya bersih sehat lingkungan dan pentingnya untuk mencatat secara rutin medical record anak (berat badan & tinggi badan)"
+      ],
+      "desc2": [
+        "Sosialisasi untuk masyarakat desa mengenai informasi yang relevan akan program ini, seperti seperti apa ciri lingkungan yang sehat, apa yang dapat diketahui dari medical record anak secara rutin, sistem yang baik untuk membangun lingkungan yang sehat, dan fasilitas yang diperlukan untuk menunjuang lingkungan yang sehat."
+      ],
       "type": "Proker Penunjang"
     },
     {
       "id": 2,
       "linkTo": "mengajar",
       "title": "Mengajar",
-      "desc1": ["Description 1"],
-      "desc2": ["Description 2"],
+      "desc1": [
+        "Mengajar adalah program berupa kegiatan pembelajaran saat Kegiatan Belajar Mengajar (KBM) di sekolah bagi para siswa/I Sekolah Dasar Negeri (SDN) 02 Desa Langensari yang dimulai pada pukul 9:30 – 12:00 Waktu Indonesia Barat (WIB)", 
+        "Program Mengajar ini dilaksanakan pada kelas 3, 4, dan 5 SDN 02 Langensari",
+        "Program Mengajar adalah salah satu solusi dari penanganan membuat murid nyaman bersekolah."
+      ],
+      "desc2": [
+        "Mengajar dengan meneruskan materi yang sudah diajarkan guru sekolah dan menambah hal-hal kreatif lainnya untuk mempermudah siswa/i memahami pelajaran",
+        "Pembelajaran juga diselingi oleh permainan dengan tujuan membuat mereka menjadi lebih patuh selama KBM dan menganggap belajar adalah hal yang menyenangkan."
+      ],
       "type": "Proker Gabungan"
     },
     {
       "id": 3,
       "linkTo": "sosialisasi",
       "title": "Sosialisasi Membaca",
-      "desc1": ["Description 1"],
-      "desc2": ["Description 2"],
+      "desc1": [
+        "Donasi buku adalah program kegiatan mendonasikan (menyumbang) buku  kepada sekolah-sekolah yang ada di Desa Langensari, Kecamatan Saketi, Pandeglang, Banten",
+        "Buku-buku yang penulis donasikan mempunyai banyak ragam atau genre, dari mulai buku bacaan yang menghibur hingga buku yang menyangkut dengan akademik"
+      ],
+      "desc2": [
+        "Donasi Buku, yang tujuannya untuk memperkenalkan pentingnya membaca, sehingga anak didik lebih tertarik untuk membaca buku yang di donasikan"
+      ],
       "type": "Proker Gabungan"
     },
     {
       "id": 4,
       "linkTo": "plang",
       "title": "Plang Rumah",
-      "desc1": ["Description 1"],
-      "desc2": ["Description 2"],
+      "desc1": [
+        "Plang rumah adalah program kegiatan membuat dan memasang tanda pengenal rumah berupa plang untuk RT, RW, dan Kades/ Kadus.",
+        "Proker Plang Rumah ini dapat membawa dampak baik  bagi masyarakat Desa Langensari, Kecamatan Saketi, Pandeglang, Banten karena setelah melakukan observasi dan survei ke lokasi, didapati minimnya rambu-rambu dan pengenal rumah perangkat desa"
+      ],
+      "desc2": [
+        "Tujuannya untuk memudahkan masyarakat desa maupun masyarakat luar desa menemukan rumah-rumah milik perangkat desa. Program Plang Rumah adalah salah satu solusi dari penanganan membuat desa menajdi lebih nyaman."
+      ],
       "type": "Proker Gabungan"
     }
   ],
@@ -173,8 +195,8 @@
       "faculty": "Fakultas Komunikasi & Desain Kreatif",
       "subFaculty": "Desain Komunikasi Visual",
       "social": {
-        "username": "",
-        "link": "#"
+        "username": "rekhan16",
+        "link": "https://www.instagram.com/rekhan16"
       }
     }
   ]
